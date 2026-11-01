@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","771","Login Page Title Test @sanity","chromium","2026-11-01","passed","2026-11-01","","loginPage.spec.ts","",""
+"","2942","user Doing the Actual Login Test @sanity","chromium","2026-11-01","passed","2026-11-01","","loginPage.spec.ts","",""
+"","2808","Verify Common Logo Test @sanity","chromium","2026-11-01","passed","2026-11-01","","productInfo.spec.ts","",""
+"","3392","Verify Search Header Functionality Test @sanity","chromium","2026-11-01","passed","2026-11-01","","searchPage.spec.ts","",""
