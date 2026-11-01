@@ -1,0 +1,7 @@
+{
+  id: 8695109,
+  name: 'Nishant Goel trainer',
+  email: 'nltech1793556254431@gmail.com',
+  gender: 'male',
+  status: 'active'
+}
